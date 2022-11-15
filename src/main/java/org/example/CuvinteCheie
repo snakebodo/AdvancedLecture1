@@ -1,0 +1,12 @@
+implements = poate adauga interfate (cate interfete doresti
+extends = adauga o alta clasa in clasa dorita
+
+Daca adaugi o interfata la o clasa si folosesti extends clasa preia
+    si clasa dorita plus interfata adaugata la clasa precedenta
+
+Clasa care implementeaza alte aclase e inferioara clasei implementate
+
+
+final = obiectul cu final nu i se poate modifica valoarea (doar in constructor)
+
+@Override = ajuta la implementarea methodelor din clasele folosite
